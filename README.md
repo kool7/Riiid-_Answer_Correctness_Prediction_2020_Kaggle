@@ -1,1 +1,3 @@
-# Riiid-_Answer_Correctness_Prediction_2020_Kaggle
+# Riiid Answer Correctness Prediction 2020 Kaggle
+
+* [Riiid AIEd Challenge 2020 - EDA](https://www.kaggle.com/kool777/riiid-aied-challenge-2020-eda)
